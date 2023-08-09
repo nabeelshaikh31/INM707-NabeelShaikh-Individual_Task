@@ -1,3 +1,3 @@
-# INM707-NabeelShaikh-Individual_Task
+# INM707: DEEP REINFORCEMENT LEARNING COURSEWORK
 
 Nabeel Shaikh - 210006323 - nabeel.shaikh@city.ac.uk
