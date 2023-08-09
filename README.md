@@ -2,8 +2,8 @@
 
 Nabeel Shaikh - 210006323 - nabeel.shaikh@city.ac.uk
 
-##Basic Task
-###1.1. Define a domain and the task:
+## Basic Task
+### 1.1. Define a domain and the task:
 
 The goal is to use Q-learning algorithm to solve a reinforcement learning task in this paper. We use Q-learning to define and solve a reinforcement learning task. Given a current state, Q-Learning is a model-free reinforcement learning policy that will determine the next best action. It selects this action at random with the goal of maximising the reward.
 The OpenAI Gym offers wide variety of simulated environments. Predefined states and actions are presented by OpenAI Gym, which reduces the complexity of their use. Therefore, in this paper, the goal is to find an approach to use Q-learning algorithm to solve OpenAI Gym’s ‘Taxi-v3’ problem.
